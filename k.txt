@@ -1,1 +1,7 @@
 git practice
+gitHub ui
+what is git and why we use it?
+git undo commands
+git stash 
+webhooks
+pat and ssh keys
